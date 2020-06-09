@@ -1,10 +1,13 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),Amazon Elastic IP,0,58.4,700.80,USD,"Number of EC2 instances (4), Number of EIPs per instance (5)"
+My Estimate,US East (N. Virginia),Amazon EC2,0,287.36,3448.32,USD,"Operating system (Linux), Quantity (4), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (t3a.xlarge)"
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,365,4380.00,USD,Number of Site-to-Site VPN Connections (10)
 My Estimate,US East (N. Virginia),S3 Standard,0,77,924.00,USD,S3 Standard storage (1000 GB per month)
 My Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD," Inbound (from: Not selected) 0 TB per month 
  Outbound (to: Not selected) 0 TB per month 
 "
-My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,3841.2059999999997,46094.47,USD,"Quantity (1), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB)"
-My Estimate,US East (N. Virginia),Elastic Load Balancing,0,1184.43,14213.16,USD,Number of Application Load Balancers (1)
+My Estimate,US East (N. Virginia),Amazon RDS for PostgreSQL,0,4319.852,51838.22,USD,"Quantity (2), Storage volume (General Purpose SSD (gp2)), Storage amount (1000 GB per month), Instance type (db.m5.12xlarge), Additional backup storage (1000 GB)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,600.43,7205.16,USD,Number of Application Load Balancers (1)
 
 
 
