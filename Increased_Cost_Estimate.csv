@@ -13,3 +13,6 @@ My Estimate,US East (N. Virginia),Amazon RDS for PostgreSQL,0,8498.704,101984.45
 
 
 "AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
+
+
+"We can increase redundancy by adding another DB instamce in another region as the replica and increase the number of load Balancers"

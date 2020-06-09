@@ -12,3 +12,5 @@ My Estimate,US East (N. Virginia),Elastic Load Balancing,0,600.43,7205.16,USD,Nu
 
 
 "AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
+
+"We can reduce costs by using cheaper EC2 instances as well as going for single AZ redundancy."
